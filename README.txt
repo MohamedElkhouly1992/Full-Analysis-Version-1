@@ -1,0 +1,1 @@
+Fixed CatBoost constant-target failure by automatically falling back to rolling-mean forecasts when targets are constant or CatBoost errors.
